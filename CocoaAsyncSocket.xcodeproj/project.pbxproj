@@ -216,10 +216,11 @@
 			};
 			buildConfigurationList = 6CD9900A1B77868C0011A685 /* Build configuration list for PBXProject "CocoaAsyncSocket" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = 6CD990061B77868C0011A685;
 			productRefGroup = 6CD990111B77868C0011A685 /* Products */;
